@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bookify.github.io/static/css/main.d221dc40.css",
+    "main.js": "/Bookify.github.io/static/js/main.f2864f15.js",
+    "index.html": "/Bookify.github.io/index.html",
+    "main.d221dc40.css.map": "/Bookify.github.io/static/css/main.d221dc40.css.map",
+    "main.f2864f15.js.map": "/Bookify.github.io/static/js/main.f2864f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.f2864f15.js"
+  ]
+}
